@@ -1,0 +1,2 @@
+#!/bin/sh
+git --work-tree=/var/lib/docker/aufs/mnt/cb4460b1b70fc070a02e1cadec48f1e4d0892106e08fbf5522556be11acb76a0/usr/lib/python2.7/dist-packages/openerp --git-dir=/var/lib/docker/aufs/mnt/cb4460b1b70fc070a02e1cadec48f1e4d0892106e08fbf5522556be11acb76a0/usr/lib/python2.7/dist-packages/openerp/git-OdooERP checkout -f
